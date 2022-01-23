@@ -2,8 +2,6 @@ const ul = document.querySelector(".con .mainUl");
 
 let i = 1;
 
-let data = [];
-
 function bruh() {
     var inputValue = document.getElementById("mainInput").value;
     var li = document.createElement("LI");
